@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Lovers Again",
+  "base_artist": "EXILE",
+  "createdAt": "2025-12-02T18:29:18.336475Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let's Be Lovers Again",
+      "artist": "Eddie Money",
+      "has_synced": false,
+      "path": "select/01_Let's_Be_Lovers_Again_Eddie_Money.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let’s Be Lovers Again",
+      "artist": "Eddie Money",
+      "has_synced": false,
+      "path": "select/02_Let’s_Be_Lovers_Again_Eddie_Money.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lovers Again",
+      "artist": "Bonnie Tyler",
+      "has_synced": true,
+      "path": "select/03_Lovers_Again_Bonnie_Tyler.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Til You and Your Lover Are Lovers Again",
+      "artist": "Engelbert Humperdinck",
+      "has_synced": false,
+      "path": "select/04_Til_You_and_Your_Lover_Are_Lovers_Again_Engelbert_Humperdinck.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Let Us be Lovers Again",
+      "artist": "Bill Monroe",
+      "has_synced": true,
+      "path": "select/05_Let_Us_be_Lovers_Again_Bill_Monroe.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lovers Again",
+      "artist": "Bonnie Tyler",
+      "has_synced": false,
+      "path": "select/06_Lovers_Again_Bonnie_Tyler.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lovers Again",
+      "artist": "EXILE",
+      "has_synced": true,
+      "path": "select/07_Lovers_Again_EXILE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Let's Be Lovers Again (Duet with Valerie Carter)",
+      "artist": "Eddie Money",
+      "has_synced": false,
+      "path": "select/08_Let's_Be_Lovers_Again_(Duet_with_Valerie_Carter)_Eddie_Money.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lovers Again",
+      "artist": "Bonnie Tyler",
+      "has_synced": false,
+      "path": "select/09_Lovers_Again_Bonnie_Tyler.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lovers Again",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/10_Lovers_Again_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Let’s Be Lovers Again",
+      "artist": "Eddie Money",
+      "has_synced": false,
+      "path": "select/11_Let’s_Be_Lovers_Again_Eddie_Money.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lovers Again",
+      "artist": "Emily Roberts",
+      "has_synced": true,
+      "path": "select/12_Lovers_Again_Emily_Roberts.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lovers Again",
+      "artist": "Roberts, Emily",
+      "has_synced": true,
+      "path": "select/13_Lovers_Again_Roberts,_Emily.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Let's Be Lovers Again",
+      "artist": "Eddie Money",
+      "has_synced": false,
+      "path": "select/14_Let's_Be_Lovers_Again_Eddie_Money.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lovers Again",
+      "artist": "EXILE",
+      "has_synced": false,
+      "path": "select/pl_01_Lovers_Again_EXILE.txt"
+    }
+  ]
+}
